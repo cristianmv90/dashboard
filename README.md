@@ -27,3 +27,17 @@
 
 ## Usage
 - Visit `http://localhost:8000/table` to view the dashboard.
+
+## Used Laravel elements
+
+- Factories
+- Seeders
+- Models
+- Controllers
+- API Routes
+- Web Routes
+- Tests
+- Blade Templates
+- JavaScript and Axios for Fetching Data
+- Charts
+- CSS/SCSS
